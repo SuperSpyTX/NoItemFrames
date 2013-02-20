@@ -1,0 +1,8 @@
+name: NoItemFrames
+main: com.superspytx.nif.NoItemFrames
+version: ${project.version}
+description: Stops placement of item frames.
+permissions:
+  noitemframes.bypass:
+    default: false
+    description: Ability to be able to place itemframes.
